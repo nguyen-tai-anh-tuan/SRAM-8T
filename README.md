@@ -5,7 +5,8 @@
 Dự án tập trung vào việc thiết kế và mô phỏng ô nhớ SRAM 8T kích thước 8x8,
 nhằm cải thiện độ ổn định và giảm tiêu thụ năng lượng so với cấu trúc SRAM 6T truyền thống.
 Hệ thống sử dụng công nghệ CMOS 90nm trên môi trường Cadence,
-tối ưu hóa cho các ứng dụng yêu cầu tốc độ cao, độ tin cậy và tiết kiệm điện năng.
+tối ưu hóa cho các ứng dụng yêu cầu tốc độ cao, độ tin cậy và tiết kiệm điện năng.  
+Video hướng dẫn chi tiết có tại: [YouTube Playlist SRAM 8T](https://www.youtube.com/playlist?list=PLexf6rL6kgqxwV7ZoVQh2SbtBmpuDXHkf).  
 
 # Cấu Trúc Chính ⚙️
 
